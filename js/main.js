@@ -64,7 +64,7 @@ jQuery(function($) {
 
   if ($('.countdown').length > 0) {
     $('.countdown').jCounter({
-      date: '21 November 2022 21:00:00',
+      date: '21 November 2022 19:00:00',
       fallback: function() {
         console.log('count finished!');
       }
