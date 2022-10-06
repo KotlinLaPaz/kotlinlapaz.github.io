@@ -1,12 +1,12 @@
-# EventsGDGCali Template
+# Compose Camp Website
 
-Es una plantilla que la comunidad de @GDGCali modificó para el evento KotlinEverywhere que se llevó a cabo con otras comunidades de google para incentivar y apoyar el uso de Kotlin en los entornos en los que trabaja.
+Website del evento Compose Camp
 
 Esta plantilla está basada en [Exhibz - Responsive Event HTML Website Template](https://www.templatespoint.net/template/Exhibz-Event-Website-Template)
 
-Link del evento: [KotlinEverywhere Cali](https://kotlin.gdgcali.co)
+Link del evento: [Compose Camp 2022](https://kotlinlapaz.github.io/ComposeCamp/)
 
-## Third party packages
+## Paquetes
 
 - Bootstrap
 - jQuery
@@ -15,7 +15,6 @@ Link del evento: [KotlinEverywhere Cali](https://kotlin.gdgcali.co)
 - Owl Carousel
 - Animate.css
 
-### Authors
+### Autor
 
-- Stiven Castillo [@bacabange](https://github.com/bacabange)
-- Jose Giraldo [@jocgiraldo](https://github.com/jocgiraldo) - [Facebook](https://www.facebook.com/joseessintilde) - [Instagram](https://www.instagram.com/joseessintilde/)
+- Gustavo Lizárraga [@lizarragadev](https://github.com/lizarragadev)
