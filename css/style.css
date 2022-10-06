@@ -2371,8 +2371,8 @@ img.pull-right {
   .ts-newsletter:before {
     position: absolute;
     border: 1px solid #000;
-    left: -20px;
-    top: 20px;
+    left: 0px;
+    top: 0px;
     z-index: -1;
     content: '';
     /* background: url(../images/shap/subscribe_slice_left.png) no-repeat; */
@@ -2442,18 +2442,18 @@ img.pull-right {
       -ms-border-radius: 50%;
       border: 1px solid #000;
       text-align: center;
-      color: #000;
+      color: #FFF;
       font-size: 14px;
       padding: 7px 0;
       margin: 0 5px; }
       .ts-footer-social-link:hover {
-        color: #000;
+        color: #FFF;
       }
       .ts-footer-social ul li:before {
         position: absolute;
-        left: -3px;
-        top: 3px;
-        background: #fff582;
+        left: 4px;
+        top: 0px;
+        background: #F86734;
         content: '';
         border-radius: 50%;
         -webkit-border-radius: 50%;
@@ -3295,10 +3295,10 @@ faq-item
 
 /*------------back to top-------------*/
 .BackTo {
-  background: #fff582 none repeat scroll 0 0;
+  background: #F86734 none repeat scroll 0 0;
   border-radius: 50%;
   bottom: 35px;
-  color: #000;
+  color: #FFF;
   cursor: pointer;
   height: 44px;
   position: fixed;
@@ -3309,7 +3309,7 @@ faq-item
   display: block;
   padding: 8px 0; }
   .BackTo a {
-    color: #000;
+    color: #FFF;
     font-size: 20px;
     font-weight: 700;
     margin-top: 2px; }
