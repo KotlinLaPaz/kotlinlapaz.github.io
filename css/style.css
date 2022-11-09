@@ -304,7 +304,7 @@ img.pull-right {
     margin-top: 30px;
   }
   .sponsor-btn > .btn:before {
-    background: #fff582;
+    background: #F86734;
     height: 50px;
   }
   .btn.fill {
@@ -687,7 +687,7 @@ img.pull-right {
     .countdown .counter-item:nth-of-type(1) i {
       color: #00a3ee; }
     .countdown .counter-item:nth-of-type(2) i {
-      color: #ffcf4a;
+      color: #F86734;
       top: 2px;
       -webkit-transform: rotate(-148deg);
       -ms-transform: rotate(-148deg);
@@ -1121,7 +1121,7 @@ img.pull-right {
       width: 100%;
       height: 100%;
       content: '';
-      background: rgba(255, 245, 130, 0.5);
+      background: rgba(130, 213, 255, 0.5);
       -o-transition: all 0.4s ease;
       transition: all 0.4s ease;
       -webkit-transition: all 0.4s ease;
@@ -1293,7 +1293,7 @@ img.pull-right {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   border-radius: 15px;
   padding: 20px;  
-  background: #fff582;
+  background: #F86734;
   
   -webkit-transform: scale(1.01);
   -ms-transition: all 500ms ease-in;
@@ -1340,7 +1340,7 @@ img.pull-right {
 }
 
 .staffbutton:hover {
-  background-color: #fff582;
+  background-color: #F86734;
 }
 
 
